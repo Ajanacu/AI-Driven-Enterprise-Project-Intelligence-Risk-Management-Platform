@@ -1,5 +1,5 @@
 """
-AI Project Risk Forecasting Platform
+AI-Driven Enterprise Project Intelligence & Risk Management Platform
 Development workspace setup script.
 
 Usage:
